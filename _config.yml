@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1344086
+color:
+  saturation: 0.7894319
+  lightness: 0.09000847
+  brandStrength: 0.5053763
+  brandColors:
+    - '#C5D8E1'
+    - '#86A3C8'
+    - '#141517'
+    - '#E8D1AB'
+    - '#4C4A4B'
+  rhythmicContrast: 0.2232689
+name: Andy Laverick
